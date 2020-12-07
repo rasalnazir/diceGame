@@ -1,0 +1,60 @@
+body {
+  background-image: url("Images/bg_image.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.heading {
+  padding-top: 20px;
+  font-size: 6rem;
+  font-family: 'Pacifico', cursive;
+  text-shadow: 3px 5px #393e46;
+  color: #ea2c62;
+  text-align: center;
+  margin: 0 0 2rem;
+}
+
+.desc {
+  margin-top: 4rem;
+  font-size: 1.5rem;
+  color: #f05454;
+}
+
+p {
+  margin: 1rem;
+  font-family: 'Nerko One', cursive;
+}
+
+img {
+  margin: 1rem 1rem 1rem;
+  width: 70%;
+}
+
+.container {
+  text-align: center;
+}
+
+.dice {
+  color: #f05454;
+  display: inline-block;
+  font-size: 3rem;
+  font-family: 'Nerko One', cursive;
+  text-shadow: 2px 2px #393e46;
+}
+
+.playbtn {
+  margin-top: 2rem;
+  text-align: center;
+}
+
+.play-button {
+  padding: 5% 10%;
+  font-size: 2.5rem;
+}
+
+.footer {
+  color: #f05454;
+  text-align: center;
+  font-family: 'Nerko One', cursive;
+  font-size: 1.25rem;
+  margin-top: 2rem;
+}
